@@ -1,0 +1,197 @@
+
+@media (max-width :575px) {
+    label {
+        font-size: .5rem;
+    }
+    .form-control {
+        padding: -0.625rem .75rem;
+        font-size: .5rem;
+    }
+    .form-select {
+        padding: -0.625rem .75rem;
+        font-size: .5rem;
+    }
+    .form-check-input {
+        padding: -0.625rem .75rem;
+        font-size: .5rem;
+    }
+    .hadding_one h1{
+        font-size: 1.6rem;
+    }
+    .license_apl h3 {
+        font-size: 1rem;
+    }
+    .vdation_from h3 {
+        font-size: 1rem;
+    }
+    .maiyadbriddi h4 {
+        font-size: .9rem;
+    }
+    .form-floating h3 {
+        font-size: 1rem;
+    }
+    .vat_pic {
+        display: contents;
+    }
+    .bttn {
+        text-align: center;
+    }
+    .checkbox label {
+        padding-left: 22px;
+    }
+    .checkbox input {
+        position: absolute;
+        bottom: 17px;
+        left: 26px;
+    }
+    .bttn .btn {
+        padding: 6px 14px;
+        font-size: small;
+    }
+    sup {
+        font-size: 8px !important;
+    }
+}
+@media (min-width :576px) and (max-width :767px) {
+    label {
+        font-size: .6rem;
+    }
+    .form-control {
+        padding: -0.650rem .85rem;
+        font-size: .6rem;
+    }
+    .form-select {
+        padding: -0.650rem .85rem;
+        font-size: .6rem;
+    }
+    .form-check-input {
+        padding: -0.650rem .85rem;
+        font-size: .6rem;
+    }
+    .hadding_one h1{
+        font-size: 2rem;
+    }
+    .license_apl h3 {
+        font-size: 1.25rem;
+    }
+    .vdation_from h3 {
+        font-size: 1.25rem;
+    }
+    .maiyadbriddi h4 {
+        font-size: 1.10rem;
+    }
+    .form-floating h3 {
+        font-size: 1.25rem;
+    }
+    .vat_pic {
+        display: contents;
+    }
+    .checkbox label {
+        padding-left: 22px;
+    }
+    .checkbox input {
+        position: absolute;
+        bottom: 20px;
+        left: 26px;
+    }
+    .bttn {
+        text-align: center;
+    }
+    .bttn .btn {
+        padding: 6px 14px;
+        font-size: small;
+    }
+    sup {
+        font-size: 10px !important;
+    }
+}
+@media (min-width :768px) and (max-width :991px) {
+    label {
+        font-size: .8rem;
+    }
+    .hadding_one h1{
+        font-size: 2.5rem;
+    }
+    .license_apl h3 {
+        font-size: 1.50rem;
+    }
+    .vdation_from h3 {
+        font-size: 1.50rem;
+    }
+    .maiyadbriddi h4 {
+        font-size: 1.30rem;
+    }
+    .form-floating h3 {
+        font-size: 1.50rem;
+    }
+    .vat_pic {
+        display: contents;
+    }
+    .checkbox label {
+        display: inline !important;
+        padding-left: 5px;
+    }
+    .bttn {
+        text-align: center;
+    }
+    sup {
+        font-size: 12px !important;
+    }
+}
+@media (min-width :992px) and (max-width :1199px) {
+    label {
+        font-size: .9rem;
+    }
+    .hadding_one h1{
+        font-size: 2.7rem;
+    }
+    .license_apl h3 {
+        font-size: 1.60rem;
+    }
+    .vdation_from h3 {
+        font-size: 1.60rem;
+    }
+    .maiyadbriddi h4 {
+        font-size: 1.40rem;
+    }
+    .form-floating h3 {
+        font-size: 1.60rem;
+    }
+    .checkbox label {
+        display: inline !important;
+        padding-left: 5px;
+    }
+    sup {
+        font-size: 14px !important;
+    }
+}
+@media (min-width :1200px) and (max-width :1399px) {
+    label {
+        font-size: .95rem;
+    }
+    .hadding_one h1{
+        font-size: 2.85rem;
+    }
+    .license_apl h3 {
+        font-size: 1.70rem;
+    }
+    .vdation_from h3 {
+        font-size: 1.70rem;
+    }
+    .maiyadbriddi h4 {
+        font-size: 1.45rem;
+    }
+    .form-floating h3 {
+        font-size: 1.70rem;
+    }
+    .checkbox label {
+        display: inline !important;
+        padding-left: 5px;
+    }
+    sup {
+        font-size: 16px !important;
+    }
+}
+/* @media (min-width :1400px) {
+
+} */
